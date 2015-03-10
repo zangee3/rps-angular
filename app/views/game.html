@@ -1,0 +1,22 @@
+<div class="well">Please select Rock, Paper or Scissors by clicking on one of the images above.
+    The application will then also select (Rock, Paper or Scissors).
+    You can as many times as you want by making another selection.
+</div>
+<modal-dialog show='dialogShown' dialog-title='Results' height='400px' width='50%'>
+    <h3> Computer Choice: <span id="computer-choice"></span></h3>
+    <img id="result-image">
+    <h3 id="result-text"></h3>
+</modal-dialog>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">Select One</h3>
+    </div>
+    <div class="panel-body">
+        <ul class="list-inline">
+            <li ng-repeat="choice in gameChoices">
+                <a ng-href="#/" data-choice="{{choice.title}}" class="user-choice" ng-click="startGame(choice.title)"><img src="{{choice.imagePath}}"></a>
+            </li>
+        </ul>
+    </div>
+</div>
