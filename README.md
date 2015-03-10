@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-# rock-paper-scissor-angular
-
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
-=======
 Rock, Paper, Scissor App
 =================
 
@@ -63,4 +49,3 @@ Execution Time (2015-03-10 23:19:25 UTC)
 karma:unit  2.9s  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 99%
 Total 2.9s
 </pre>
->>>>>>> 0e2d82d6c01b570fc48dbfb0a3f7ba574b8d135e
