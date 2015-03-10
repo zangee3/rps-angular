@@ -2,4 +2,6 @@ node_modules
 dist
 .tmp
 .sass-cache
+.idea
+node_componenets
 bower_components
