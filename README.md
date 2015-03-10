@@ -41,10 +41,7 @@ INFO [launcher]: Starting browser PhantomJS
 WARN [watcher]: Pattern "/Users/zangee3/Desktop/work/rock-paper-scissor-angular/test/mock/**/*.js" does not match any file.
 INFO [PhantomJS 1.9.8 (Mac OS X)]: Connected on socket dhr9VK-F4lQxo6kB_FjU with id 99816719
 PhantomJS 1.9.8 (Mac OS X): Executed 9 of 9 SUCCESS (0.003 secs / 0.021 secs)
-
 Done, without errors.
-
-
 Execution Time (2015-03-10 23:19:25 UTC)
 karma:unit  2.9s  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 99%
 Total 2.9s
