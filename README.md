@@ -2,7 +2,10 @@ Rock, Paper, Scissor App
 =================
 
 This is a simple application for users to play the famous Rock, Paper, Scissors game. The game is implemented with node.js, angularJS, Karma, and Grunt tools.
-
+### Screenshots
+![alt tag](https://raw.github.com/zangee3/rps-angular/master/app/images/win.png)
+![alt tag](https://raw.github.com/zangee3/rps-angular/master/app/images/loose.png)
+![alt tag](https://raw.github.com/zangee3/rps-angular/master/app/images/tie.png)
 ### Requirements
 Below are the tools I used to develop this app:
 * AngularJS
